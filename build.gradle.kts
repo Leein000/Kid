@@ -6,7 +6,7 @@ plugins {
 }
 
 group = "kr.kro.narileein05"
-version = "1.0.0"
+version = "1.0.1"
 val output = File("C:\\Users\\user\\Desktop\\MC Server Folder\\MC Server 1.17.1\\plugins")
 
 repositories {
