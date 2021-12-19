@@ -11,4 +11,6 @@ public class AlwaysEvents implements Listener {
     public void test(PlayerInteractEvent e) {
         e.getPlayer().sendMessage("hi");
     }
+
+
 }
