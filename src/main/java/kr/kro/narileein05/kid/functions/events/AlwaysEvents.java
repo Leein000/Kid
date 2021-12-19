@@ -12,5 +12,4 @@ public class AlwaysEvents implements Listener {
         e.getPlayer().sendMessage("hi");
     }
 
-
 }
