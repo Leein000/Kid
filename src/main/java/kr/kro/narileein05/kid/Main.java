@@ -1,6 +1,7 @@
 package kr.kro.narileein05.kid;
 
 import kr.kro.narileein05.kid.functions.events.AlwaysEvents;
+import kr.kro.narileein05.kid.functions.events.Dev;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.java.JavaPlugin;
