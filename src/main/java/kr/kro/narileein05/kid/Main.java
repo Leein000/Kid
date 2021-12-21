@@ -9,7 +9,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class Main extends JavaPlugin {
 
     public static JavaPlugin pl;
-    public static String prefix = "§f[§9KID§f]";
+    public static String prefix = "§[§9KID§f]";
 
     @Override
     public void onEnable() {
