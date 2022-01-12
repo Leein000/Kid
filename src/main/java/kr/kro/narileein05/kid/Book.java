@@ -16,7 +16,7 @@ public final class Book extends JavaPlugin {
 
     @Override
     public void onEnable() {
-            System.out.println("플러그인이 활성화되었습니다");
+            System.out.println("플러그인이 활성화되 었습니다");
         }
 
     @Override
